@@ -8,9 +8,9 @@
 
 |  |  |
 |--|--|
-| NIM | **1841720** |
+| NIM | **184172017** |
 | Nama Lengkap | **ANGGISTA AMALIA YASHINTA** |
-| No-absen | 1 |
+| No-absen | 7 |
 | Kelas | TI-3E |
 
 |  |  |
@@ -29,9 +29,9 @@
 
 |  |  |
 |--|--|
-| NIM | **1841720** |
+| NIM | **1841720029** |
 | Nama Lengkap | **WARDAH GHALIYAH** |
-| No-absen | 2 |
+| No-absen | 27 |
 | Kelas | TI-3E |
 
 
